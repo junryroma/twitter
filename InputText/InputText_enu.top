@@ -1,0 +1,4 @@
+topic: ~InputText()
+language: enu
+
+u:(Translate _*) $text = $1 $onStopped = 1
